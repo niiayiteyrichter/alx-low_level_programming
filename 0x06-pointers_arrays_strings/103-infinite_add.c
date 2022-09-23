@@ -1,3 +1,4 @@
+Edit Options Buffers Tools C Help
 #include "main.h"
 #include <stdio.h>
 /**
